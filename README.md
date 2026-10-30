@@ -1,0 +1,2 @@
+# Military_Mission_Intelligence_and_Resource_Coordination_System
+SEM-3 DBMS Project
